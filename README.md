@@ -1,3 +1,13 @@
+# Jupiter's conclusion
+Docker used to be just a container service, but the recent introduction ofSwarm and Stack (manages orchestration of scaling multiple containers) had made it more fully featured. 
+
+The tutorial at their site is quite easy to grasp.
+
+You can still use Docker as just a container and let other tech handle the managing (i.e. Kubernates)
+Kubernates (a.k.a. k8) is made for that purpose. 
+
+Thus, I recommend using both
+
 # docker-test
 trying out docker
 
