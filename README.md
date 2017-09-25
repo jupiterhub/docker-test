@@ -7,3 +7,6 @@ trying out docker
 - Get the IP of the docker using the following command ```docker-machine ip default```
 - ```docker run -p 4000:80 friendlyhello```
 - Access from your browser ```http://{VM-IP}:4000```
+
+# Resources
+- https://docs.docker.com/get-started
